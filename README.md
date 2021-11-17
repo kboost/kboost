@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kboost from Chile
+- 👋 Hi, I’m @kboost from Chile, CEO of Mining Asteroid Industries and token MAC.
 - 👀 I’m interested in Gaming,technology, apps, universe and innovation
 - 🌱 I’m currently learning  programation in unreal engine
 - 💞️ I’m looking to collaborate on the community
