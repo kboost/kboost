@@ -1,7 +1,7 @@
 Hi 👋 My name is Kristofer G.Mery
 =================================
 
-Software Developer
+Software Developer and Mining Enginner
 ------------------
 
 Mining engineer with 3 years of experience in underground and open pit mining, facing challenges in the areas of fortifications, blasting, crushing plant projects and logistics. At the same time, he has experience as a software developer in the technology industry, programming languages such as javascripts, python, html, css are some of his knowledge put to the test creating web pages for business and private environments.
