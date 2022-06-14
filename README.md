@@ -1,7 +1,7 @@
 Hi 👋 My name is Kristofer G.Mery
 =================================
 
-  Software Developer and Mining Enginner
+  Front-End Developer and Mining Enginner
 ------------------
 
 <engineer with experience in underground mining, facing challenges in the areas of fortifications, blasting, crushing plant projects and logistics. At the same time, he has experience as a software developer in the technology industry, programming in Javascript, Python, HTML, CSS are some of his knowledge put to the test creating web pages for business and private environments.>
