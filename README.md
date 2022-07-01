@@ -6,7 +6,7 @@ Hi 👋 My name is Kristofer G.Mery
 
 <engineer with experience in underground mining, facing challenges in the areas of fortifications, blasting, crushing plant projects and logistics. At the same time, he has experience as a software developer in the technology industry, programming in Javascript, Python, HTML, CSS are some of his knowledge put to the test creating web pages for business and private environments.>
 
-  * 🌍  I'm based in Chile.
+  * 🌍  I'm from Chile.
   * ✉️  You can contact me at [k.gonzalezmery92@gmail.com](mailto:k.gonzalezmery92@gmail.com)
   * 🧠  I'm learning python, javascript, Crypto Security.
 
