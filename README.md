@@ -4,11 +4,11 @@ Hi 👋 My name is Kristofer G.Mery
   Front-End Developer and Mining Enginner
 ------------------
 
-<engineer with experience in underground mining, facing challenges in the areas of fortifications, blasting, crushing plant projects and logistics. At the same time, he has experience as a software developer in the technology industry, programming in Javascript, Python, HTML, CSS are some of his knowledge put to the test creating web pages for business and private environments.>
+<engineer with experience in underground mining, facing challenges in the areas of fortifications, blasting, crushing plant projects and logistics. At the same time, he has experience as a software developer in the technology industry, programming in Javascript, Python are some of his knowledge put to the test creating web pages for business and private environments.>
 
   * 🌍  I'm from Chile.
   * ✉️  You can contact me at [k.gonzalezmery92@gmail.com](mailto:k.gonzalezmery92@gmail.com)
-  * 🧠  I'm learning python, javascript, Crypto Security.
+  * 🧠  I'm learning python, javascript, Crypto Security and games developer in Unreal engine.
 
 ### Skills
 
